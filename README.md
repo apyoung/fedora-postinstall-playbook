@@ -21,10 +21,18 @@ Please be aware this is my opinionated setup for Fedora as a new user. Use your 
 
 ---
 ---
+⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
+# Up to date part of guide
+⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 
-⬆️⬆️⬆️ Up to date part of guide ⬆️⬆️⬆️
 
-⬇️⬇️⬇️ Old part of guide ⬇️⬇️⬇️
+###### My To-D0 List:
+- [ ] Check improvements from other forks, to add to this guide
+
+
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+# Old part of guide
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
 ---
 ---
