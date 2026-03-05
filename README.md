@@ -13,6 +13,12 @@
 
 </div>
 
+## What is this?
+
+I forked the [Fedora-Noble-Setup](https://github.com/wz790/Fedora-Noble-Setup) repo to keep track of my personal changes. Feel free to follow along, open issues, pull requests, etc. I will slowly work through the guide to customize it to my own usecase.
+
+Please be aware this is my opinionated setup for Fedora as a new user. Use your your own risk.
+
 ---
 
 ## 👋 Hey there!
