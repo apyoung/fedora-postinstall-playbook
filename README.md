@@ -1,7 +1,7 @@
 # ✨ My Fedora Linux Noble Setup Guide (Post-Installation)
 
 <p align="center">
-  <img src="src/assets/logo.png" alt="Fedora Setup Logo - Nord Style" width="250"/>
+  <img src="src/assets/logo.svg" alt="Fedora Post Install Logo" width="250"/>
 </p>
 
 <div align="center">
