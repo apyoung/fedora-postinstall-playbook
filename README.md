@@ -20,6 +20,14 @@ I forked the [Fedora-Noble-Setup](https://github.com/wz790/Fedora-Noble-Setup) r
 Please be aware this is my opinionated setup for Fedora as a new user. Use your your own risk.
 
 ---
+---
+
+⬆️⬆️⬆️ Up to date part of guide ⬆️⬆️⬆️
+
+⬇️⬇️⬇️ Old part of guide ⬇️⬇️⬇️
+
+---
+---
 
 ## 👋 Hey there!
 
