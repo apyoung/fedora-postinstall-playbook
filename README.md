@@ -1,4 +1,4 @@
-# ✨ My Fedora Linux Noble Setup Guide (Post-Installation)
+# ✨ My Fedora Linux Post Install Playbook
 
 <p align="center">
   <img src="src/assets/logo.svg" alt="Fedora Post Install Logo" width="250"/>
@@ -6,8 +6,10 @@
 
 <div align="center">
 
-[![Fedora](https://img.shields.io/badge/Fedora-42+-blue.svg?style=for-the-badge&logo=fedora)](https://getfedora.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)](https://github.com/yourusername/fedora-setup/graphs/commit-activity)
+[![Fedora](https://img.shields.io/badge/Fedora-43+-blue.svg?style=for-the-badge&logo=fedora)](https://getfedora.org/)
+[![Last commit](https://img.shields.io/github/last-commit/apyoung/fedora-postinstall-playbook?style=for-the-badge&logo=git)](https://github.com/apyoung/fedora-postinstall-playbook/commits/main)
+[![Pulse](https://img.shields.io/badge/Pulse-activity-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apyoung/fedora-postinstall-playbook/pulse)
+[![Issues](https://img.shields.io/github/issues/apyoung/fedora-postinstall-playbook?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apyoung/fedora-postinstall-playbook/issues)
 
 </div>
 
