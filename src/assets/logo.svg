@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <g fill="none">
+    <!-- Body fill -->
+    <rect x="144" y="176" width="736" height="672" rx="112" fill="#0E141B"/>
+    <!-- Header inset fill (inside the border) -->
+    <rect x="156" y="188" width="712" height="112" rx="100" fill="#18212B"/>
+    <line x1="180" y1="300" x2="844" y2="300" stroke="#1C5DA8" stroke-width="10" stroke-linecap="round"/>
+    <!-- Prompt: >_ -->
+    <path d="M270 378 L340 448 L270 518" stroke="#8FD3FF" stroke-width="64" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M382 530 L552 530" stroke="#8FD3FF" stroke-width="56" stroke-linecap="round"/>
+    <!-- Checklist: check + line -->
+    <path d="M270 644 L322 706 L406 588" stroke="#2A7BD8" stroke-width="64" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M460 654 L760 654" stroke="#2A7BD8" stroke-width="56" stroke-linecap="round"/>
+    <!-- Outer stroke LAST so it cannot be covered -->
+    <rect x="144" y="176" width="736" height="672" rx="112" stroke="#1C5DA8" stroke-width="18"/>
+  </g>
+</svg>
